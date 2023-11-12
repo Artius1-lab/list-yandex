@@ -18,7 +18,7 @@ header{
 }
 
   .header__logo-image{
-   background-image:url("images/logo.svg");
+   background-image:url("../images/logo.svg");
    background-repeat: no-repeat;
    width: 78.45px;
    height: 15.43px;
@@ -52,7 +52,7 @@ header{
 
   .cover{
     background-repeat:no-repeat;
-    background-image: url(/images/cover.svg);
+    background-image: url("../images/cover.svg");
     background-size:95% auto;
     background-position:right;
    
@@ -267,7 +267,7 @@ display:block;
   margin-top: 32px;
   margin-left: 20px;
   margin-right: 20px;
-  background-image:url(/images/polyarinov.png);
+  background-image:url("../images/polyarinov.png");
   background-repeat: no-repeat;
   background-size: 100px;
   background-position-x:20px;
@@ -346,7 +346,7 @@ color: #F5F5F5;
   margin-top: 32px;
   margin-left: 20px;
   margin-right: 20px;
-  background-image:url(/images/bunin.png);
+  background-image:url("../images/bunin.png");
   background-repeat: no-repeat;
   background-size: 100px;
   background-position-x:20px;
@@ -400,7 +400,7 @@ footer{
 }
 
 .photo_footer{
-  background-image: url(/images/logo_footer.svg);
+  background-image: url("../images/logo_footer.svg");
   background-repeat: no-repeat;
   margin-top:30px;
   width: 92px;
