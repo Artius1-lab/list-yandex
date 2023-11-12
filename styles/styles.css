@@ -18,7 +18,7 @@ header{
 }
 
   .header__logo-image{
-   background-image:url("/images/logo.svg");
+   background-image:url("images/logo.svg");
    background-repeat: no-repeat;
    width: 78.45px;
    height: 15.43px;
